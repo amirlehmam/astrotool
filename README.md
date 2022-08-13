@@ -23,11 +23,11 @@ We were fortunate to meet our mentor, Jim Fredrickson through an acquaintance, (
 * This Excel file highlights future EP dates.  It will not tell which way the market will break, but it will indicate in advance which date to pay particular attention to on a chart for a trading opportunity.
 
 The purpose of this Excel file is to create a calendar from several weighted conditions previously established through different matrices based on Astronomical data - that is to say that each "Aspect" of each Planet has different conditions, some are more consequential than others etc., let's say that an opposition (180 degrees) will be more weighted than a Semi-Sextile (at 30 degrees) between two planets etc... to give us an overview of the next most important dates.
-The Excel file contains a lot of data and different methodologies used.
+The Excel file contains a lot of data and different methodologies used...
  
 ## Final Schedule
 
-![img](https://i.postimg.cc/K8K4Dz8F/Picture2.png)
+![img](https://i.postimg.cc/qMrKcNJR/dates.png)
  
 We backtested this calendar on the Bitcoin chart, over a period from 2017 to the present 2022. Indeed, the set of dates that the Excel file output to us represents more than 85% correlation with the "turning points" of the market... This does not ONLY apply to bitcoin but to all crypto-currencies and all stock indices, stocks, ETFs… 
 
